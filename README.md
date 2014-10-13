@@ -1,5 +1,4 @@
 gDUDE
 =====
 
-d.u.d.e. forked by grillazz.com
-d.u.d.e. is direct user data entry system
+d.u.d.e. aka direct user data entry system forked by grillazz.com
